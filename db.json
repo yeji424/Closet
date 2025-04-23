@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "14K/18K 스타피쉬 헤어핀",
+      "img": "image10.jpg",
+      "price": 205805,
+      "category": "top",
+      "discount": 17
+    },
+    {
+      "id": "2",
+      "title": "14K/18K 심플 진주 반지",
+      "img": "image10.jpg",
+      "price": 147445,
+      "category": "new",
+      "discount": 46
+    },
+    {
+      "id": "3",
+      "title": "14K/18K 데일리 볼귀걸이",
+      "img": "image7.jpg",
+      "price": 18374,
+      "category": "new",
+      "discount": 24
+    },
+    {
+      "id": "4",
+      "title": "14K/18K 심플 반지",
+      "img": "image9.jpg",
+      "price": 418907,
+      "category": "new",
+      "discount": 18
+    },
+    {
+      "id": "5",
+      "title": "14K/18K 더블링 목걸이",
+      "img": "image7.jpg",
+      "price": 364786,
+      "category": "top",
+      "discount": 20
+    },
+    {
+      "id": "6",
+      "title": "14K/18K 데일리 볼귀걸이",
+      "img": "image1.jpg",
+      "price": 314221,
+      "category": "new",
+      "discount": 33
+    },
+    {
+      "id": "7",
+      "title": "14K/18K 진주 스타일링 핀",
+      "img": "image7.jpg",
+      "price": 409972,
+      "category": "top",
+      "discount": 20
+    },
+    {
+      "id": "8",
+      "title": "14K/18K 심플 진주 반지",
+      "img": "image9.jpg",
+      "price": 285686,
+      "category": "top",
+      "discount": 31
+    },
+    {
+      "id": "9",
+      "title": "14K/18K 럭셔리 큐빅 반지",
+      "img": "image2.jpg",
+      "price": 433639,
+      "category": "new",
+      "discount": 28
+    },
+    {
+      "id": "10",
+      "title": "14K/18K 데일리 볼귀걸이",
+      "img": "image5.jpg",
+      "price": 186978,
+      "category": "new",
+      "discount": 27
+    },
+    {
+      "id": "11",
+      "title": "14K/18K 심플 반지",
+      "img": "image3.jpg",
+      "price": 227569,
+      "category": "top",
+      "discount": 30
+    },
+    {
+      "id": "12",
+      "title": "14K/18K 더블링 목걸이",
+      "img": "image8.jpg",
+      "price": 15059,
+      "category": "top",
+      "discount": 17
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "title": "14K/18K 허니 벌집2 헥사곤 심플 반지",
+      "img": "image1.jpg",
+      "price": 185000,
+      "category": "new",
+      "discount": 5,
+      "count": 3
+    },
+    {
+      "id": "8",
+      "title": "진주 헤어핀 스타일링 5종 연예인 스타일 옆머리 고정삔 5종",
+      "img": "image8.jpg",
+      "price": 54000,
+      "category": "new",
+      "discount": 10,
+      "count": 3
+    },
+    {
+      "id": "4",
+      "title": "14k/18k 데일리 더블링 목걸이",
+      "img": "image4.jpg",
+      "price": 318000,
+      "category": "new",
+      "discount": 42,
+      "count": 1
+    },
+    {
+      "id": "5",
+      "title": "14K/18K 네쥬 T라인 원터치 링 귀찌 귀걸이",
+      "img": "image5.jpg",
+      "price": 58000,
+      "category": "new",
+      "discount": 0,
+      "count": 1
+    }
+  ]
+}
